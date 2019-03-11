@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shelby</string>
+    <string name="up_button">Foward</string>
+    <string name="left_button">Left</string>
+    <string name="right_button">Right</string>
+    <string name="reverse_button">Reverse</string>
+    <string name="bluetooth_button">Connect to Bluetooth</string>
+</resources>
